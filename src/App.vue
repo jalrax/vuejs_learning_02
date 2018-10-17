@@ -20,7 +20,7 @@
     data() {
       return {
         quotes: [
-          'Just a sting to see something',
+          'Just a sting to see something!',
         ],
         maxQuotes: 10,
       };
